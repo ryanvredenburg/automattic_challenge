@@ -1,4 +1,4 @@
-# ### Bonus Points Round 1:  
+### Bonus Points Round 1:  
 -  Guessed which city each color represents on the map 
 ### Bonus Points Round 2:
 - Guessed which city EVERY dot represents on the map
